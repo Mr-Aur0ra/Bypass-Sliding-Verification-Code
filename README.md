@@ -37,10 +37,6 @@ password_element.send_keys("YOUR_PASSWORD")
 python3 login.py
 ```
 
-(5)演示：
-
-https://github.com/Mr-Aur0ra/Bypass-Sliding-Verification-Code/assets/42038237/c6e69568-2081-4901-9316-f6740a9b4ec1
-
 
 
 ## 注意事项
